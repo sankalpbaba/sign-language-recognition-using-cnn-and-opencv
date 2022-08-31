@@ -1,4 +1,4 @@
-# sign-language-recognition-using-cnn-and-opencv
+# Sign-language-recognition-using-cnn-and-opencv
 
 Sign language is one of the oldest and most natural form of language for communication. Since most people
 do not know sign language and interpreters are very difficult to come by, we have come up with a real time
